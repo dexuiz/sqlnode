@@ -1,0 +1,35 @@
+<style>
+  p.big{
+    line-height: 1.5
+  }
+  p.space{
+    letter-spacing: 3
+  }
+  p.color{
+    color: black;
+  }
+  .silver-background{
+    background-color: lightblue;
+  }
+  p.font{
+    font-family: monospace;
+  }
+  p.fontsize{
+    font-size: 10px
+  }
+  p.text{
+      margin-left: 150px;
+      margin-right: 150px;
+      padding-right: 150px;
+      padding-left: 150px;
+  }
+      body{
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+  h2{
+    color:black;
+    text-align: center;
+    font-family: sans-serif;
+  }
